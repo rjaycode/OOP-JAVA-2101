@@ -61,4 +61,3 @@ public class Main {
         v.speed();
     }
 }
-Write to Rjay Brucal
